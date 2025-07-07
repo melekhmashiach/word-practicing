@@ -1,2 +1,1 @@
-# word-practicing
-Hebrew word practicing
+# hebrew practicing
